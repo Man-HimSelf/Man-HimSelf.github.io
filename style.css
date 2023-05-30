@@ -1,5 +1,5 @@
 
-body {background-color:lime;}
+body {background-color:darkgreen;}
 h1 {font-family:monospace;
    font-style:italic;
     text-align:center;
@@ -10,13 +10,17 @@ h1 {font-family:monospace;
    }
    #carr{ position:relative;left:100px;}
    #school{width:350px;
-   position:relative;left:100px;}
+   position:relative;left:100px;
+       border-style:groove;
+       border-color:black;
+   }
    h3 {text-align:center;
    font-style:italic;
    font-size:25px;}
    h4{ font-style:italic;
-   font-size:20px;}
+   font-size:25px;}
    h5{font-style:italic;
-       font-size:20px;
+       font-size:25px;
    }
-   
+h6{font-size:25px;}
+li{font-size:20px;
