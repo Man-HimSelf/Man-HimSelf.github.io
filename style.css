@@ -67,4 +67,25 @@ h4 { font-size:20px;
     #physics {position:relative;left:420px;
     width:300px;
     border:groove;}
-    
+
+
+
+
+    h1 {text-align:center;}
+#council {position:relative;left:135px;
+border:groove;}
+h4 {font-size:20px;
+    text-align:center;
+}
+h2 { text-align:center}
+h3 { text-align:center;}
+h5 {text-align:center;
+font-size:15px;}
+h6 {font-size:15px;
+text-align:center;}
+#care { width:300px;
+position:relative;left:135px;
+    border:groove;}
+    h7 {font-style:italic;
+    position:relative;left:100px;}
+    body {background-color:darkgreen;
