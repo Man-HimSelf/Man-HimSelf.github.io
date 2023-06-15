@@ -56,7 +56,7 @@ h4 { font-size:20px;
     
     body {background-color:darkgreen;}
     
-    #lab { position:relative;left:420px;
+    #lab { position:relative;left:350px;
         border:groove;
     }
     h2 {font-style:italic;
@@ -64,7 +64,7 @@ h4 { font-size:20px;
     li {font-style:italic;
     font-size:20px;}
     
-    #physics {position:relative;left:420px;
+    #physics {position:relative;left:350px;
     width:250px;
     border:groove;}
 
