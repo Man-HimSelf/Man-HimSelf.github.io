@@ -16,7 +16,9 @@ h1 {font-family:monospace;
        border-style:groove;
        border-color:black;}
        h3 {font-style:italic;
-       font-size:20px;}
+       font-size:20px;
+           text-align:center;
+       }
    
   
    h4{ font-style:italic;
@@ -29,6 +31,7 @@ h6{font-size:20px;
     text-align:center;}
 li{font-size:20px;}
 h7 {font-style:italic;}
+
 h8 {font-style:italic;}
 
 
