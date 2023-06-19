@@ -15,7 +15,8 @@ h1 {font-family:monospace;
 
    #carr{ position:relative;left:420px;}
    #school{position:relative;left:420px;
-       width:350px;}
+       width:350px;
+          border:grrove;}
   { position:relative;left:100px;
        border-style:groove;
        border-color:black;}
